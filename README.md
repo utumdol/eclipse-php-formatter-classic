@@ -1,4 +1,4 @@
-eclipse-classic-php-formatter
+eclipse-php-formatter-classic
 =====================
 
 Preview:
