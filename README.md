@@ -20,7 +20,7 @@ class Example {
 	var $theInt = 1;
 
 	public function foo($a, $b) {
-		switch ($a) {
+		switch($a) {
 			case 0 :
 				$Other->doFoo();
 				break;
