@@ -173,7 +173,7 @@
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_list" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_method_declaration" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_method_invocation" value="false"/>
-<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_switch" value="true"/>
+<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_switch" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_while" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_postfix_operator" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_prefix_operator" value="false"/>
