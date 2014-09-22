@@ -165,7 +165,7 @@
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_brace_in_switch" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_brace_in_type_declaration" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_bracket_in_array_reference" value="false"/>
-<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_array_creation" value="true"/>
+<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_array_creation" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_catch" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_for" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_foreach" value="true"/>
